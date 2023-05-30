@@ -20,4 +20,13 @@
     npm start
     
 # SPA : Single Page Application
-        페이지는 하나인데 여러개인것처럼 눈속임을 한다. --> 자바스크립트가 해준다. 페이지를 매번 새로고침 할 필요가 없음. 웹사이트를 모바일앱처럼 사용할 수 있음
+        페이지는 하나인데 여러개인것처럼 눈속임을 한다. 
+        --> 자바스크립트가 해준다. 페이지를 매번 새로고침 할 필요가 없음. 
+            웹사이트를 모바일앱처럼 사용할 수 있음
+
+# VS CODE 확장프로그램
+![image](https://github.com/yangjungmin/react_basic/assets/129017040/2943d957-e17e-48d7-8598-107439a844ac)
+
+# setting 설정
+![image](https://github.com/yangjungmin/react_basic/assets/129017040/7f733bb9-633d-4e20-88fa-7f60a8d5cb71)
+![image](https://github.com/yangjungmin/react_basic/assets/129017040/2d6d33f5-7ff8-4dc0-9638-fcc4f35d8f6f)
