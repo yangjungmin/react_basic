@@ -13,3 +13,9 @@
 
 # 함수만들기 
 ![image](https://github.com/yangjungmin/react_basic/assets/129017040/5da2bf04-d659-4ab1-b081-ceb3f1840b56)
+
+# 화살표함수로 바꿈
+![image](https://github.com/yangjungmin/react_basic/assets/129017040/8c9095cd-920f-499d-8b42-af07022b0063)
+
+#함수를 밖으로 빼기
+![image](https://github.com/yangjungmin/react_basic/assets/129017040/d4096ac6-9963-4514-8378-ece4dd78737b)
