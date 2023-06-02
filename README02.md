@@ -22,4 +22,20 @@
   
 # 클릭하면 함수실행(Event Handling)
 ![image](https://github.com/yangjungmin/react_basic/assets/129017040/1b85342f-b124-4633-8043-64e9dae79b0f)
+  
+==> 화살표함수로 표현
+![image](https://github.com/yangjungmin/react_basic/assets/129017040/6b1a43f8-40d5-404c-8330-0caa6ae3cf64)
+  
+![image](https://github.com/yangjungmin/react_basic/assets/129017040/a94bd510-0a78-4061-8be2-bfb4ef86e2fa)
+
+# 콘솔에는 숫자가 바뀌어지는데 화면에는 바뀌지 않는다
+![image](https://github.com/yangjungmin/react_basic/assets/129017040/9805415f-401f-40cc-a26f-20a737b85b27)
+  
+# react에서는 변수가 바뀐다해서 리랜더링이 일어나지 않는다
+  ==> 해결책) 리랜더링이 일어나게 하려면 useState(react Hook)를 사용해야한다.
+  ![image](https://github.com/yangjungmin/react_basic/assets/129017040/2231547c-14ca-43fc-ad24-28b37415195c)
+
+  
+
+  
 
