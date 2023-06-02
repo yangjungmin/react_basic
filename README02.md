@@ -19,3 +19,7 @@
 
 # 함수를 밖으로 빼기
 ![image](https://github.com/yangjungmin/react_basic/assets/129017040/d4096ac6-9963-4514-8378-ece4dd78737b)
+  
+# 클릭하면 함수실행(Event Handling)
+![image](https://github.com/yangjungmin/react_basic/assets/129017040/1b85342f-b124-4633-8043-64e9dae79b0f)
+
