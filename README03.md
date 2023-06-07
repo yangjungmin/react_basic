@@ -1,6 +1,13 @@
-# child에 대한 설명-#react3에 대한 참조
+# 🐹 children에 대한 설명 --#react3 폴더 참조
 
-# form 에서는 onClick대신 onSubmit 이벤트를 사용한다.
-![image](https://github.com/yangjungmin/react_basic/assets/129017040/30f9324b-5bfd-47e8-b863-14d2fd81bf87) 
+# 🤡 form에서는 onClick 대신 onSubmit 이벤트를 사용한다.
 
-![image](https://github.com/yangjungmin/react_basic/assets/129017040/62abfb7a-a515-448b-86da-79e3a8ec69c0)
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/508c6d21-2247-457c-b3b8-1849d05ae3d7)
+
+
+# 🤡 더하기, 빼기 만들기
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/dedace06-bc2f-424c-be04-b54bbedb3a18)
+
+하나의 숫자를 이용해서 더하기, 빼기 만들기
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/e864359f-3c09-40ba-a165-b09f1ca3e0f9)
