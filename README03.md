@@ -11,3 +11,6 @@
 
 하나의 숫자를 이용해서 더하기, 빼기 만들기
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/e864359f-3c09-40ba-a165-b09f1ca3e0f9)
+
+![image](https://github.com/yangjungmin/react_basic/assets/129017040/679a869e-32bb-4fb1-b674-472d54762f9b)
+
